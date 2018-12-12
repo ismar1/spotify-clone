@@ -1,4 +1,4 @@
-<h1>Spotify-clone</h1>
+<h1>Spotify clone</h1>
 
 <p>Apenas um clone do site do Spotify usando Bootstrap.</p>
 
